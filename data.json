@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "kane",
+      "email": "kane@twitch.tv",
+      "age": 40
+    },
+    {
+      "id": "2",
+      "name": "Kim Seong Gun",
+      "email": "KSG@twitch.tv",
+      "age": 60
+    },
+    {
+      "id": "3",
+      "name": "Tajiri",
+      "email": "tajiri@twitch.tv",
+      "age": 50
+    }
+  ]
+}
